@@ -1,2 +1,2 @@
-# ML-Lab-
+# ML-Lab
 Practicals 
